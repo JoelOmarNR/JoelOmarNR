@@ -1,3 +1,6 @@
+# 💫 About Me:
+FullStack programmer passionate about his profession, graduated from the career of<br>Systems and Information Technology Development.<br>Technologically adept, I offer specialization and experience in programming<br>Backend with Java-Spring Boot, in Frontend programming with Javascript-Angular and<br>on mobile in Android Studio with Java and Kotlin in the same way throughout my study<br>professional I have programmed in languages ​​like NodeJS, C#, Python, PHP on the side<br>back and in front with ReactJS, Jsp, Html, Css, since all programming languages<br>I find it very interesting to learn and during my studies I have had the<br>opportunity to meet them.<br>I offer Responsibility and ability to work independently or in a team.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jneyraramos/) 
